@@ -1,0 +1,49 @@
+.header{
+    background-color: black;
+    padding-top: 30px;
+    padding-left: 3%;
+    display: flex;
+}
+
+.logo{
+    margin-left: 2%;
+    width: 3%;
+    height: 3%;
+}
+
+.hppc{
+    margin-bottom: 10px;
+    color: white;
+    margin-left: 45%;
+    display: flex;
+    gap: 5%;
+}
+
+.header-buttons{
+    margin-left: 7%;
+}
+
+.Login{
+    font-size: 11px;
+    margin-top: 10px;
+    background-color: black;
+    width: 65px;
+    height: 30px;
+    color: white;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 6px;
+}
+
+.register{
+    margin-left: 20px;
+    font-size: 11px;
+    margin-top: 10px;
+    background-color: #097FD9;
+    width: 75px;
+    height: 30px;
+    color: white;
+    border-width: 1px;
+    border-color: #097FD9;
+    border-radius: 6px;
+}
