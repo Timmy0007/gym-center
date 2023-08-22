@@ -1,0 +1,35 @@
+.section3{
+    background-color: black;
+    padding-left: 5%;
+}
+
+.card{
+    box-shadow: 0px 0px 5px rgba(17, 17, 17, 0.2);
+    border-radius: 5%;
+    width: 80%;
+    padding-left: 10%;
+    background-color: #0D0D0D;
+}
+
+.card:hover{
+    background-color: #097FD9;
+    transition-duration: 2s;
+}
+
+.name{
+    color: white;
+    font-size: 18px;
+}
+
+.description{
+    color: white;
+    font-size: 12px;
+    width: 80%;
+    margin-top: -10px;
+    padding-bottom: 10px;
+}
+
+.product-image{
+    margin-top: 40px;
+    width: 30px;
+}
