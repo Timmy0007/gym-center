@@ -19,7 +19,7 @@ const header = () => {
           <button className='register'> Register</button>
         </div>
 
-        </div>
+        </div> 
   )
 }
 
