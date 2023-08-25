@@ -1,8 +1,11 @@
 import React from 'react'
-import Header from "./Components/Header/Header";
+import Header from './Components/Header/Headerr';
 import Section2 from "./Components/Section2/Section";
 import Section3 from "./Components/Section3/Section3";
 import Fitness from './Components/fitness/fitness';
+import Enhance from './Components/Enhance/enhance';
+import Packages from './Components/Packages/packages';
+import Member from './Components/member/member';
 
 const home = () => {
   return (
@@ -11,7 +14,9 @@ const home = () => {
         <Section2/>
         <Section3/>
         <Fitness/>
-
+        <Enhance/>
+        <Packages/>
+        <Member/>
     </div>
   )
 }

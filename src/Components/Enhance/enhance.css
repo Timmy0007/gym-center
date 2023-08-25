@@ -1,0 +1,27 @@
+.enhance{
+    padding-left: 14%;
+    padding-top: 40px;
+    display: flex;
+    background-color: black;
+    padding-bottom: 30px;
+}
+
+.enhance-text{
+    color: white;
+    font-size: 22px;
+    width: 50%;
+    font-weight: 500;
+}
+
+.enhance-btn{
+    margin-left: 25%;
+    font-size: 11px;
+    margin-top: 10px;
+    background-color: #097FD9;
+    width: 75px;
+    height: 30px;
+    color: white;
+    border-width: 1px;
+    border-color: #097FD9;
+    border-radius: 6px;   
+}
