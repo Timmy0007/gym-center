@@ -2,7 +2,7 @@ import React from 'react'
 import "./Section3.css"
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import Carousell from './carousell';
+import Carousell from './carousell'; 
 import { CarouselData, responsive } from './carouseldata';
 
 const section3 = () => {
