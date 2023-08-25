@@ -5,7 +5,7 @@ import 'react-multi-carousel/lib/styles.css';
 import Carousell from './carousell'; 
 import { CarouselData, responsive } from './carouseldata';
 
-const section3 = () => {
+const section3 = () => { 
 
   const product = CarouselData.map((item) => (
     <Carousell
