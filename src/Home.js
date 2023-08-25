@@ -6,6 +6,7 @@ import Fitness from './Components/fitness/fitness';
 import Enhance from './Components/Enhance/enhance';
 import Packages from './Components/Packages/packages';
 import Member from './Components/member/member';
+import Subscribe from './Components/Subscribe/subscribe';
 
 const home = () => {
   return (
@@ -17,6 +18,8 @@ const home = () => {
         <Enhance/>
         <Packages/>
         <Member/>
+        <Subscribe/>
+      
     </div>
   )
 }
