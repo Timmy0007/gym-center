@@ -1,0 +1,80 @@
+.member{
+    background-color: black;
+    height: 300px;
+    padding-bottom: 40px;
+}
+
+.member1{
+    margin-left: 10%;
+    width: 40%;
+}
+
+.what{
+    width: 10%;
+    color: white;
+    font-size: 26px;
+    width: 50%;
+    line-height: 40px;
+    margin-bottom: 70px;
+    font-weight: 500;
+}
+
+.edgee{
+    color: white;
+    width: 28%;
+}
+
+
+
+
+
+.member2{
+    margin-top: -220px;
+    margin-left: 56%;
+    box-shadow: 0px 0px 5px rgba(17, 17, 17, 0.2);
+    width: 32%;
+    height: 73%;
+    padding-left: 2.5%;
+    border-radius: 5%;
+    background-color: #0D0D0D;
+}
+
+.star{
+    margin-top: 30px;
+    margin-left: 70%;
+    margin-bottom: 25px;
+    width: 20%;
+    height: 20%;
+}
+
+.memtex{
+    line-height: 22px;
+    margin-left: 1%;
+    font-size: 11px;
+    color:#FFFFFF;
+    font-weight: 100;
+    width: 300px;
+}
+
+
+.facejon{
+    margin-top: 2%;
+    display: flex;
+    line-height: 5px;
+}
+
+.face{
+    width: 9%;
+    height: 9%;
+    margin-right: 3%;
+}
+
+.jon{
+    font-size: 13px;
+    color: white;
+}
+
+.work{
+    color: white;
+    font-size: 9px;
+}

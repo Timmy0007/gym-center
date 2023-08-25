@@ -1,18 +1,21 @@
 import React from 'react'
 import "./member.css"
-import edge from '../../assets/edge2.png'
+import edge from '../../assets/edgee.png'
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import Datamember from './datamember';
-import { Memberdata, responsive } from './memberdata';
+import { memberdata, responsive } from './memberdata';
 
 const member = () => {
 
-    const product = Memberdata.map((item) => (
+    const product = memberdata.map((item) => (
         <Datamember
           name={item.man}
-          url={item.productimage}
+          star={item.star}
+          face={item.face}
           description={item.description}
+          man={item.man}
+          work={item.work}
         />
       ));
 
