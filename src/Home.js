@@ -7,6 +7,7 @@ import Enhance from './Components/Enhance/enhance';
 import Packages from './Components/Packages/packages';
 import Member from './Components/member/member';
 import Subscribe from './Components/Subscribe/subscribe';
+import Footer from './Components/footer/footer';
 
 const home = () => {
   return (
@@ -19,7 +20,7 @@ const home = () => {
         <Packages/>
         <Member/>
         <Subscribe/>
-      
+        <Footer/>
     </div>
   )
 }
