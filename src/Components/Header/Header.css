@@ -50,6 +50,10 @@
 
 @media screen and (max-width: 569px) {
 
+    .header{
+        overflow-x: hidden;
+    }
+
     .logo{
         margin-top: 5px;
         margin-left: 0;
