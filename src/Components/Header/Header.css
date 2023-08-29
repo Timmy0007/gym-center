@@ -51,7 +51,7 @@
 @media screen and (max-width: 569px) {
 
     .header{
-        overflow-x: hidden;
+        overflow-x: hiddenup;
     }
 
     .logo{
