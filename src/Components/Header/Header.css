@@ -47,3 +47,87 @@
     border-color: #097FD9;
     border-radius: 6px;
 }
+
+@media screen and (max-width: 569px) {
+
+    .logo{
+        margin-top: 5px;
+        margin-left: 0;
+        width: 40px;
+        height: 40px;
+    }
+    
+
+    .hppc{
+        margin-top: 10px;
+        gap: 3%;
+        margin-left: 3%;
+        font-size: 10px;
+    }    
+
+    .header-buttons{
+        margin-left: 6%;
+    }
+
+    .login{
+        font-size: 9px;
+        width: 35px;
+        height: 30px;
+    }
+
+    .register{
+        margin-left: 10px;
+        font-size: 9px;
+        width: 50px;
+        height: 30px;
+    }
+
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .logo{
+        margin-top: 5px;
+        margin-left: 3%;
+        width: 50px;
+        height: 50px;
+    }
+    
+
+    .hppc{
+        gap: 5%;
+        margin-left: 3%;
+        font-size: 17px; 
+    }    
+
+    .header-buttons{
+        margin-left: 10%;
+    }
+
+    
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 569px) {
+
+
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}
