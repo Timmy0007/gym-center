@@ -67,8 +67,35 @@
 .hr{
     margin-top: 1%;
     width: 100%;
-    border-bottom: 1px solid white;
+    border-top: 0;
+    border-bottom: 1px solid #E1E1E1;
     padding-bottom: 20px;
     border-left: 0;
 }
 
+.fen{
+    font-size: 11px;
+    color: #E1E1E1;
+}
+
+.footerend{
+    display: flex;
+}
+
+#fl{
+    margin-top: 6px;
+    width: 2%;
+    height: 2%;
+}
+
+#fit{
+    margin-left: 2%;
+}
+
+#term{
+    margin-left: 65%;
+}
+
+#priva{
+    margin-left: 3%;
+}

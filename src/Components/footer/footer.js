@@ -2,6 +2,7 @@ import React from 'react'
 import "./footer.css"
 import logo from '../../assets/Logo.png'
 import socimg from '../../assets/socimg.png'
+import footerlogo from '../../assets/footerlogo.png'
 
 const footer = () => {
   return (
@@ -45,10 +46,10 @@ const footer = () => {
 
     <div className='footerend'>
 
-        <img src={footerlogo} alt=''/>
-        <p></p>
-        <p></p>
-        <p></p>
+        <img id='fl' src={footerlogo} alt=''/>
+        <p id='fit' className='fen'>2023 fitness center</p>
+        <p id='term' className='fen'>Term of Use</p>
+        <p id='priva' className='fen'> Privacy policy</p>
 
     </div>
 
