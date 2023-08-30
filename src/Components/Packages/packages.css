@@ -126,3 +126,62 @@
     margin-top: 0px;
     margin-left: 10px;
 }
+
+@media screen and (max-width: 569px) {
+
+    .billed{
+        margin-left: 28%;
+        width: 52%;
+    }
+
+    .packages2{
+        display: block;
+    }
+    
+    .package-card{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .productname{
+        font-size: 23px;
+        font-weight: 500;
+        margin-left: 50%;
+        width: 100%;
+    }
+
+    .price{
+        margin-top: 65px;
+        margin-left: -45px;
+    }
+
+    .per{
+        margin-top: -40px;
+        margin-left: 50%;
+        width: 100%;
+    }
+
+    #descr1{
+        margin-left: -90px;
+    }
+
+    .reg-button{
+        margin-top: 50px;
+        margin-left: -60px;
+    }
+    
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .billed{
+        margin-left: 35%;
+        width: 30%;
+    }
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}

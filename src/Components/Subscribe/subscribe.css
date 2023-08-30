@@ -60,3 +60,53 @@
     height: 27px ;
     font-size: 11px;
 }
+
+@media screen and (max-width: 569px) {
+
+    .subscribe{
+        padding-top: 20px;
+    }
+
+    .subscribee{
+        height: 135px;
+    }
+
+    .subs{
+        margin-left: 0;
+        width: 95%;
+        text-align: center;
+    }
+
+    .clearly{
+        margin-left: 1%;
+        width: 92%;
+    }
+
+    .subss{
+        display: flex;
+        margin-left: 5%;
+        width: 67%;
+        height: 20px;
+    }
+
+    #sub-email{
+        margin-left: 2px;
+        
+    }
+
+    .subs-btn{
+        margin-top: -8px;
+        margin-left: 21%;
+        width: 77px;
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}

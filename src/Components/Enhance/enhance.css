@@ -25,3 +25,36 @@
     border-color: #097FD9;
     border-radius: 6px;   
 }
+
+@media screen and (max-width: 569px) {
+
+    .enhance{
+        display: block;
+    }
+
+    .enhance-text{
+        font-size: 20px;
+        width: 90%;
+    }
+
+    .enhance-btn{
+        margin-top: 20px;
+        margin-left: 28%;
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .enhance-btn{
+        margin-top: 4%;
+        width: 95px;
+        height: 35px;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}

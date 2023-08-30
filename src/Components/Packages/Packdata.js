@@ -25,7 +25,7 @@ export default function Packdata(props) {
      <div id="nameee"> <h2 className="productname">{props.name}</h2></div>
       <p className="price">{props.price}</p>
       <p className="per">{props.per}</p>
-      <div className="desc">
+      <div id="descr1" className="desc">
       <img className="mark" src={props.url} alt="checklist" />
       <p className="description">{props.description}</p>
       </div>

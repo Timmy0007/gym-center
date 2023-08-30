@@ -77,3 +77,62 @@
     width: 40%;
     height: 20%;
 }
+
+
+
+@media screen and (max-width: 569px) {
+
+    .section2a{
+        margin-top: 20px;
+    }
+    .helps{
+        font-size: 18px;
+        line-height: 23px;
+        width: 80%;
+    }
+
+    .motiv{
+        font-size: 10px;
+    }
+
+    .start-button{
+        font-size: 9px;
+    }
+
+    .demo-img{
+        width: 30px;
+        height: 30px;
+    }
+
+    .watch{
+        font-size: 11px;
+    }
+
+
+    .man{
+        margin-left: 2%;
+        width: 200px;
+        height: 300px;
+    }
+
+    .edge-img{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .section2a{
+        margin-top: 10px;
+    }
+
+    .man{
+        margin-left: 5%;
+    }
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}

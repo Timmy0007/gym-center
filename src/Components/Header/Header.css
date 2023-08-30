@@ -50,10 +50,6 @@
 
 @media screen and (max-width: 569px) {
 
-    .header{
-        overflow-x: hidden;
-    }
-
     .logo{
         margin-top: 5px;
         margin-left: 0;
@@ -100,11 +96,12 @@
 
     .hppc{
         gap: 5%;
-        margin-left: 3%;
+        margin-left: 21%;
         font-size: 17px; 
     }    
 
     .header-buttons{
+        margin-top: 5px;
         margin-left: 10%;
     }
 

@@ -78,3 +78,52 @@
     color: white;
     font-size: 9px;
 }
+
+
+@media screen and (max-width: 569px) {
+
+    .member1{
+        margin-top: -80px;
+        padding-top: 40px;
+    }
+    .what{
+        margin-top: 50px;
+        font-size: 15px;
+        width: 90%;
+    }
+
+    .member2{
+        width: 37%;
+        margin-top: -260px;
+        margin-left: 50%;
+    }
+
+    .memtex{
+        width: 97%;
+    }
+
+    .face{
+        margin-top: 10px;
+    }
+
+    .edgee{
+        width: 60%;
+        height: 40%;
+    }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+.what{
+    padding-top: 50px;
+}
+
+.member2{
+    margin-top: -260px;
+}
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+}
