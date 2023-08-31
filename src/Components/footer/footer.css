@@ -99,3 +99,41 @@
 #priva{
     margin-left: 3%;
 }
+
+@media screen and (max-width: 569px) {
+
+    .logoo{
+        display: none;
+    }
+
+    .footer2{
+        margin-top: -10px;
+        margin-left: -70px;
+    }
+
+    .highlight{
+        font-size: 16px;
+        line-height: 22px;
+        margin-left: 3%;
+    }
+
+    #term{
+        margin-left: 40%;
+    }
+    
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+
+    .footer2{
+        margin-top: -10px;
+        margin-left: -40px;
+    }
+
+}
+
+@media screen and (min-width: 1022px) and (max-width: 1201px) {
+
+    
+}

@@ -35,7 +35,7 @@ const footer = () => {
 
         <div className='footer4'>
         <p className='social'>Social media</p>
-        <img src={socimg} alt='soc media'/>
+        <img className='socimg' src={socimg} alt='soc media'/>
         </div>
 
     </div>
